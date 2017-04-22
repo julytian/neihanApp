@@ -2,6 +2,12 @@
 
 接口爬取IOS App。
 
+# 想上预览
+
+github要求是 https，所以选择coding.me .  
+
+[内涵段子APP](https://coding.net/u/julytian/p/neihanApp/git)
+
 > A Vue.js project
 
 ## Build Setup
