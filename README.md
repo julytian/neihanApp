@@ -2,8 +2,6 @@
 
 接口爬取IOS App。
 
-假如你克隆代码先把 根目录下的 `index.html` 删除，然后修改 `index-dev.html`改为`index.html`
-
 > A Vue.js project
 
 ## Build Setup
@@ -30,16 +28,5 @@ npm run build --report
 * webpack-zepto
 * vue-dplayer 视频播放器
 * vue-preview 图片预览
-
-
-# 上线修改
-
-如果为了配合github页面，`npm run build`前提把 config/index.js 里面的第十行的 `/` 改为 `./`:
-
-```js
-    assetsPublicPath: './',
-```
-
-然后把 `dist`目录里面的内容放在根目录下.
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
